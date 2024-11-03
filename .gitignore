@@ -1,0 +1,11 @@
+bert_data/
+bert_output/
+venv/
+__pycache__/
+*.py[cod]
+*.class
+.pytest_cache/
+.ipynb_checkpoints
+.venv
+*.csv
+*.txt
