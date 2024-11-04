@@ -41,4 +41,4 @@
 
 The `NBAiLab_Finetuning_and_Evaluating_a_BERT_model_for_NER_and_POS.ipynb` jupyter notebook, from [link](https://github.com/NbAiLab/notram?tab=readme-ov-file#colab-notebooks), is used as the baseline script for the finetuning process. It is important to note, however, that there have been changes made to the version of the notebook in this repository to accommodate it to our use case.
 
-    - Before running make sure to go to setting cell and change the output_dir and cache_dir variables to a new folder under bert_output/scandi 
+- Before running make sure to go to setting cell and change the output_dir and cache_dir variables to a new folder under bert_output/scandi 
