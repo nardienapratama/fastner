@@ -1790,46 +1790,36 @@ ES O
 HKH994 O
 MLS004 O
 
-Bilder O
-. O
+Bilder. O
 
 Figur O
-1 O
-. O
+1. O
 
 Anropslogg O
 Petter B-PER
-Hellerud I-PER
-. O
+Hellerud. I-PER
 
 2 O
-. O
 
 Figur O
-2 O
-. O
+2. O
 
 Korrespondanse O
 på O
 Messenger O
 med O
-Petter B-PER
-. O
+Petter. B-PER
 
-3 O
-. O
+3. O
 
 Figur O
-3 O
-. O
+3. O
 
 Distrikt O
-202 O
-. O
+202. O
 
 Anmnr O
-12134535 O
-. O
+12134535. O
 
 Vedlegg O
 til O
@@ -1837,31 +1827,26 @@ avhør O
 av O
 Rune B-PER
 Vilkum I-PER
-Karlsen I-PER
-. O
+Karlsen. I-PER
 16.12.00 B-PID
 45990 I-PID
 
 Dialog O
 med O
 Solveig B-PER
-Nissen I-PER
-. O
+Nissen. I-PER
 
 Sidenr O
 3 O
 av O
-17 O
-. O
+17. O
 
 Dok.nr. O
-. O
 
 på O
 Messenger O
 med O
-Rune B-PER
-. O
+Rune. B-PER
 
 Viser O
 vitnet O
@@ -1872,63 +1857,50 @@ formentlig O
 Solveig B-PER
 Lisesen I-PER
 på O
-Messenger O
-. O
+Messenger. O
 
-TMS010 O
-. O
+TMS010. O
 
 Distrikt O
-56 O
-. O
+56. O
 
 Anmnr O
-15144535 O
-. O
+15144535. O
 
-Vedlegg O
-. O
+Vedlegg. O
 
 alvor O
-df67ccf370e84 O
-. O
+df67ccf370e84. O
 
 Korrespondanse O
 på O
 Messenger O
 med O
-Chris B-PER
-. O
+Chris. B-PER
 
-a4c5645215151744e535b4db83e O
-. O
+a4c5645215151744e535b4db83e. O
 
 Korrespondanse O
 på O
 Messenger O
 med O
-Atle B-PER
-. O
+Atle. B-PER
 
-c5b05704835f88423e9bbfc7b6588 O
-. O
+c5b05704835f88423e9bbfc7b6588. O
 
 Korrespondanse O
 på O
 Messenger O
 med O
-Silver B-PER
-. O
+Silver. B-PER
 
 a2b3d21bad4cdud7734199dad2316 O
-. O
 
 og O
 leiker O
 og O
 herjer O
-rundt O
-. O
+rundt. O
 
 Vitnet O
 har O
@@ -1939,26 +1911,22 @@ sånn O
 alene O
 greie O
 med O
-Trine B-PER
-. O
+Trine. B-PER
 
 De O
 blei O
 aldri O
 så O
-gode O
-. O
+gode. O
 
 som O
 har O
 vært O
 hos O
-Steffen B-PER
-. O
+Steffen. B-PER
 
 Godkjent O
-digitalt O
-. O
+digitalt. O
 
 Sondre B-PER
 Ryggesem I-PER
@@ -1967,17 +1935,14 @@ SRI012 O
 Øst B-ORG
 politidistrikt I-ORG
 Anmnr O
-15174935 O
-. O
+15174935. O
 
 Avhør O
 av O
-vitne O
-. O
+vitne. O
 
 Sidenr O
-7 O
-. O
+7. O
 
 beslag O
 C2 O
@@ -1990,8 +1955,7 @@ bedt O
 om O
 å O
 forklare O
-seg O
-. O
+seg. O
 
 Oslo B-LOC
 politidistrikt I-LOC
@@ -2008,16 +1972,13 @@ Skrevet O
 av O
 Politibetjent O
 Silje B-PER
-Kristen I-PER
-. O
+Kristen. I-PER
 
 Anmnr O
-15174533 O
-. O
+15174533. O
 
 Lokarknr O
-2562721 O
-. O
+2562721. O
 
 Mats B-PER
 Donsen, I-PER
@@ -2027,8 +1988,7 @@ sendte O
 en O
 e-post O
 til O
-john.doe@example.com B-MAIL
-. O
+john.doe@example.com. B-MAIL
 
 Marta B-PER
 skrev O
@@ -2037,22 +1997,19 @@ marta.siljesen@example.com B-MAIL
 om O
 det O
 nyeste O
-prosjektet O
-. O
+prosjektet. O
 
 Vi O
 møttes O
 i O
 Oslo B-LOC
-Sentrum I-LOC
-. O
+Sentrum. I-LOC
 
 Kjøretelefonnummeret O
 til O
 Anne B-PER
 er O
-97765532 B-PHO
-. O
+97765532. B-PHO
 
 Sarah B-PER
 og O
@@ -2060,15 +2017,13 @@ Alex B-PER
 besøkte O
 Ringerike B-LOC
 for O
-ferie O
-. O
+ferie. O
 
 Kjell B-PER
 er O
 ansatt O
 i O
-NSM B-ORG
-. O
+NSM. B-ORG
 
 Fødselsdato. O
 01.02.15 B-PID
@@ -2089,8 +2044,7 @@ skrev O
 en O
 rapport O
 til O
-eirik@company.no B-MAIL
-. O
+eirik@company.no. B-MAIL
 
 Fordonet O
 til O
@@ -2103,7 +2057,6 @@ Corolla I-VEH
 med O
 regnr O
 rr47011 B-LIC
-. O
 
 Vi O
 planlegger O
@@ -2112,8 +2065,7 @@ reise O
 til O
 Stockholm B-LOC
 i O
-møter O
-. O
+møter. O
 
 Karen B-PER
 sendte O
@@ -2124,8 +2076,7 @@ karendoe@example.com B-MAIL
 om O
 et O
 viktig O
-spørsmål O
-. O
+spørsmål. O
 
 Tom B-PER
 og O
@@ -2133,8 +2084,7 @@ Lise B-PER
 besøkte O
 Bergen B-LOC
 på O
-ferie O
-. O
+ferie. O
 
 de O
 er O
@@ -2159,8 +2109,7 @@ Dataene O
 ble O
 sendt O
 til O
-data@org.no B-MAIL
-. O
+data@org.no. B-MAIL
 
 Fabrikken O
 til O
@@ -2169,15 +2118,13 @@ Industries I-ORG
 ligger O
 i O
 Oslogata B-LOC
-98 I-LOC
-. O
+98. I-LOC
 
 E-postadressen O
 til O
 Martine B-PER
 er O
-martine@domain.com B-MAIL
-. O
+martine@domain.com. B-MAIL
 
 En O
 blå O
@@ -2187,30 +2134,26 @@ ble O
 funnet O
 i O
 Bergensgata B-LOC
-10 I-LOC
-. O
+10. I-LOC
 
 Sofie B-PER
 sendte O
 en O
 e-post O
 til O
-sofie@webmail.com B-MAIL
-. O
+sofie@webmail.com. B-MAIL
 
 E-post O
 til O
 mari@org.org B-MAIL
 er O
-sendt O
-. O
+sendt. O
 
 Et O
 tyveri O
 skjedde O
 i O
-Hamar B-LOC
-. O
+Hamar. B-LOC
 
 Telefonnummeret O
 til O
@@ -2220,37 +2163,32 @@ er O
 eller O
 345 B-PHO
 23 I-PHO
-231 I-PHO
-. O
+231. I-PHO
 
 Vi O
 har O
 møtt O
 i O
-Lillehammer B-LOC
-. O
+Lillehammer. B-LOC
 
 E-postadressen O
 til O
 Frederik B-PER
 er O
-frederik@service.com B-MAIL
-. O
+frederik@service.com. B-MAIL
 
 København B-LOC
 er O
 en O
 vakker O
-by O
-. O
+by. O
 
 Bil O
 nummer O
 CD B-LIC
 00325 I-LIC
 tilhører O
-Kurt B-PER
-. O
+Kurt. B-PER
 
 Vi O
 skal O
@@ -2258,15 +2196,13 @@ reise O
 til O
 Oslo B-LOC
 i O
-morgendagen O
-. O
+morgendagen. O
 
 E-post O
 til O
 nina@domain.dk B-MAIL
 er O
-bekreftet O
-. O
+bekreftet. O
 
 Sverre B-PER
 fnr. O
@@ -2275,16 +2211,14 @@ kjørte O
 en O
 hvit O
 BMW B-VEH
-X3 I-VEH
-. O
+X3. I-VEH
 
 Karin B-PER
 og O
 Martin B-PER
 er O
 i O
-Kristiansand B-LOC
-. O
+Kristiansand. B-LOC
 Karin O
 er O
 født O
@@ -2299,14 +2233,12 @@ til O
 line@company.no B-MAIL
 er O
 sendt O
-. O
 
 Telefonnummeret O
 til O
 Simen B-PER
 er O
 47566998 B-PHO
-. O
 
 København B-LOC
 er O
@@ -2314,15 +2246,13 @@ en O
 viktig O
 by O
 i O
-Danmark B-LOC
-. O
+Danmark. B-LOC
 
 Bil O
 nummer O
 EF05765 B-LIC
 tilhører O
 Erik B-PER
-. O
 
 Vi O
 møttes O
@@ -2330,7 +2260,6 @@ i O
 Stavanger B-LOC
 for O
 forretningsmøte O
-. O
 
 En O
 e-post O
@@ -2338,7 +2267,6 @@ til O
 julie@service.com B-MAIL
 ble O
 sendt O
-. O
 
 Finnmark B-LOC
 politidistrikt I-LOC
@@ -2531,21 +2459,18 @@ SMITH, B-PER
 John I-PER
 bor O
 i O
-Oslo B-LOC
-. O
+Oslo. B-LOC
 
 Han O
 jobber O
 hos O
 Norges B-ORG
-Bank I-ORG
-. O
+Bank. I-ORG
 
 Hans O
 telefonnummer O
 er O
-47345678 B-PHO
-. O
+47345678. B-PHO
 
 JOHANSEN B-PER
 Maria, I-PER
@@ -2555,8 +2480,7 @@ kjørte O
 en O
 svart O
 Audi B-VEH
-A4 I-VEH
-. O
+A4. I-VEH
 
 Petter B-PER
 Hansen I-PER
@@ -2564,8 +2488,7 @@ sendte O
 en O
 e-post O
 til O
-petter.hansen@example.com B-MAIL
-. O
+petter.hansen@example.com. B-MAIL
 
 Vi O
 har O
@@ -2577,16 +2500,14 @@ Model I-VEH
 S I-VEH
 X I-VEH
 på O
-gaten O
-. O
+gaten. O 
 
 Kari B-PER
 Nordmann I-PER
 er O
 ansatt O
 i O
-Statkraft B-ORG
-. O
+Statkraft. B-ORG
 
 Sofie B-PER
 LARSEN I-PER
@@ -2597,24 +2518,21 @@ for O
 å O
 rapportere O
 en O
-hendelse O
-. O
+hendelse. O
 
 Aftenposten B-ORG
 skrev O
 om O
 en O
 ny O
-sak O
-. O
+sak. O
 
 Kjøretøyet O
 var O
 en O
 blå O
 Ford B-VEH
-Focus I-VEH
-. O
+Focus. I-VEH
 
 Per B-PER
 Olsen I-PER
@@ -2624,8 +2542,7 @@ e-post O
 adresse O
 som O
 er O
-per.ols@example.com B-MAIL
-. O
+per.ols@example.com. B-MAIL
 
 Martin B-PER
 JENSEN I-PER
@@ -2633,14 +2550,12 @@ er O
 tilknyttet O
 Røde B-ORG
 Kors I-ORG
-. O
 
 Telefonnummeret O
 til O
 helsepersonell O
 er O
 99854120 B-PHO
-. O
 
 SVENSSON, B-PER
 Helga I-PER
@@ -2649,35 +2564,30 @@ en O
 grønn O
 BMW B-VEH
 X5 I-VEH
-. O
 
 E-postadressen O
 til O
 jobben O
 er O
 helga.svensson@workmail.com B-MAIL
-. O
 
 Bergen B-LOC
 er O
 en O
 stor O
 by O
-. O
 
 Hans O
 arbeid O
 er O
 hos O
 Telenor B-ORG
-. O
 
 LUNDE B-PER
 Jonas I-PER
 bruker O
 telefonnummeret O
 47241166 B-PHO
-. O
 
 Vi O
 så O
@@ -2687,7 +2597,6 @@ Toyota B-VEH
 Corolla I-VEH
 på O
 parkeringen O
-. O
 
 Lise B-PER
 Kramer I-PER
@@ -2695,7 +2604,6 @@ er O
 ansatt O
 i O
 DNB B-ORG
-. O
 
 En O
 e-post O
@@ -2705,7 +2613,6 @@ ble O
 mottatt O
 i O
 postkassen O
-. O
 
 Nina B-PER
 Foss I-PER
@@ -2715,7 +2622,6 @@ en O
 hvit O
 Audi B-VEH
 Q7 I-VEH
-. O
 
 Arbeidsplassen O
 til O
@@ -2724,7 +2630,6 @@ Johnson I-PER
 er O
 i O
 Helsedirektoratet B-ORG
-. O
 
 Etterforskningsleder O
 Kari B-PER
@@ -2738,8 +2643,7 @@ en O
 storskala O
 operasjon O
 mot O
-cyberkriminalitet O
-. O
+cyberkriminalitet. O
 
 Hun O
 kjørte O
@@ -2751,8 +2655,7 @@ med O
 reg.nr. O
 EL11551 B-LIC
 til O
-hovedkvarteret O
-. O
+hovedkvarteret. O
 
 Kari B-PER
 kunne O
@@ -2764,8 +2667,7 @@ eller O
 22 I-PHO
 07 I-PHO
 70 I-PHO
-00 I-PHO
-. O
+00. I-PHO
 
 Mistenkte O
 HANSEN B-PER
@@ -2781,7 +2683,6 @@ Model I-VEH
 utenfor O
 Oslo B-LOC
 Sentralstasjon B-LOC
-. O
 
 Hans O
 siste O
@@ -2789,7 +2690,6 @@ kjente O
 e-post O
 var O
 darkweb@securemail.com B-MAIL
-. O
 
 Etterforsker O
 fra O
@@ -2803,8 +2703,7 @@ BMW B-VEH
 X5 I-VEH
 med O
 skiltnummer O
-AB31312 B-LIC
-. O
+AB31312. B-LIC
 
 Lars B-PER
 kommuniserte O
@@ -2817,8 +2716,7 @@ og O
 23 I-PHO
 30 I-PHO
 50 I-PHO
-00 I-PHO
-. O
+00. I-PHO
 
 Cybersikkerhetsekspert O
 Maria B-PER
@@ -2830,8 +2728,7 @@ tilkalt O
 for O
 å O
 analysere O
-dataene O
-. O
+dataene. O
 
 Hun O
 ankom O
@@ -2846,8 +2743,7 @@ CD22010 B-LIC
 til O
 Politihuset B-LOC
 i O
-Bergen B-LOC
-. O
+Bergen. B-LOC
 
 Maria B-PER
 var O
@@ -2859,8 +2755,7 @@ og O
 67 I-PHO
 89 I-PHO
 01 I-PHO
-23 I-PHO
-. O
+23. I-PHO
 
 Interpol-agent O
 John B-PER
@@ -2875,8 +2770,7 @@ Mercedes-Benz B-VEH
 S-klasse I-VEH
 med O
 diplomatskilt O
-EL55345 B-LIC
-. O
+EL55345. B-LIC
 
 Etter O
 å O
@@ -2920,8 +2814,7 @@ var O
 Møllergata B-LOC
 23, I-LOC
 0179 I-LOC
-Oslo I-LOC
-. O
+Oslo. I-LOC
 
 Her O
 ble O
@@ -2954,8 +2847,7 @@ i O
 Torshovgata B-LOC
 3, I-LOC
 0476 I-LOC
-Oslo I-LOC
-. O
+Oslo. I-LOC
 
 Politiets O
 tiltak O
@@ -3244,8 +3136,7 @@ Bergen, B-LOC
 Trondheim, B-LOC
 Stavanger B-LOC
 og O
-Kristiansand B-LOC
-. O
+Kristiansand. B-LOC
 
 Tyveriene O
 fant O
@@ -3265,8 +3156,7 @@ og O
 Strandgaten B-LOC
 22 I-LOC
 i O
-Bergen B-LOC
-. O
+Bergen. B-LOC
 
 Disse O
 adressene O
@@ -3498,8 +3388,7 @@ Kongens B-LOC
 gate I-LOC
 3 I-LOC
 7011 I-LOC
-Trondheim I-LOC
-. O
+Trondheim. I-LOC
 
 Mistenkte O
 Robbyn B-PER
@@ -3515,14 +3404,12 @@ GH B-LIC
 7018 I-LIC
 i O
 Fredrikstad B-LOC
-. O
 
 Hennes O
 kontaktinfo: O
 ingrid.larsen@outlook.com, B-MAIL
 0052 B-PHO
-65432109 I-PHO
-. O
+65432109. I-PHO
 
 Firmaet O
 Secure B-ORG
@@ -3535,14 +3422,12 @@ etterforskning, O
 ledet O
 av O
 Thomas B-PER
-Johannessen I-PER
-. O
+Johannessen. I-PER
 
 Kontakt: O
 post@securesolutions.no, B-MAIL
 0045 B-PHO
-54321098 I-PHO
-. O
+54321098. I-PHO
 
 Etterforskerne O
 Ohmman B-PER
@@ -3554,8 +3439,7 @@ leder O
 saken O
 fra O
 Oslo B-ORG
-politidistrikt I-ORG
-. O
+politidistrikt. I-ORG
 
 De O
 kan O
@@ -3563,8 +3447,7 @@ nås O
 på O
 morten.svendsen@politiet.no B-MAIL
 og O
-lise.antonsen@politiet.no B-MAIL
-. O
+lise.antonsen@politiet.no. B-MAIL
 
 En O
 grønn O
@@ -3593,8 +3476,7 @@ Ole B-PER
 Kristiansen, I-PER
 og O
 Camilla B-PER
-Fredriksen I-PER
-. O
+Fredriksen. I-PER
 
 Andre O
 relevante O
@@ -3605,8 +3487,7 @@ Sikker B-ORG
 Netthandel I-ORG
 og O
 Norsk B-ORG
-Cybersenter I-ORG
-. O
+Cybersenter. I-ORG
 
 Flere O
 lokasjoner O
@@ -3624,8 +3505,7 @@ og O
 Torggata B-LOC
 12 I-LOC
 i O
-Drammen B-LOC
-. O
+Drammen. B-LOC
 
 Internasjonal O
 etterforskningsrapport O
@@ -3637,8 +3517,7 @@ fra O
 Italia, B-LOC
 Iran B-LOC
 og O
-Sverige B-LOC
-. O
+Sverige. B-LOC
 
 Hovedmistenkte O
 er O
@@ -3648,8 +3527,7 @@ Zahra B-PER
 Mohammadi I-PER
 og O
 Astrid B-PER
-Lindgren I-PER
-. O
+Lindgren. I-PER
 
 Bianchi B-PER
 opererer O
@@ -3662,15 +3540,13 @@ del I-LOC
 Corso I-LOC
 15, I-LOC
 Roma B-LOC
-. O
 
 Kontakt: O
 marco.bianchi@gmail.com B-MAIL
 og O
 +39 B-PHO
 345 I-PHO
-51412233 I-PHO
-. O
+51412233. I-PHO
 
 Mohammadi B-PER
 ble O
@@ -3680,8 +3556,7 @@ i O
 Tehran B-LOC
 nær O
 Milad B-LOC
-Tower I-LOC
-. O
+Tower. I-LOC
 
 Hennes O
 kontaktinfo: O
@@ -3689,8 +3564,7 @@ zahra.mohammadi@yahoo.com, B-MAIL
 +98 B-PHO
 912 I-PHO
 345 I-PHO
-6777 I-PHO
-. O
+6777. I-PHO
 
 Lindgren B-PER
 bor O
@@ -3699,8 +3573,7 @@ Stockholm, B-LOC
 Sverige, B-LOC
 på O
 Drottninggatan B-LOC
-45 I-LOC
-. O
+45. I-LOC
 
 Kontakt: O
 astrid.lindgren@outlook.com, B-MAIL
@@ -3708,8 +3581,7 @@ astrid.lindgren@outlook.com, B-MAIL
 70 I-PHO
 458 I-PHO
 45 I-PHO
-67 I-PHO
-. O
+67. I-PHO
 
 Selskapet O
 Sicurezza B-ORG
@@ -3720,8 +3592,7 @@ involvert, O
 med O
 hovedkontor O
 i O
-Milano B-LOC
-. O
+Milano. B-LOC
 
 Kontakt: O
 info@sicurezzadati.it. B-MAIL
@@ -3768,8 +3639,7 @@ Tiba, I-VEH
 12 B-LIC
 A I-LIC
 345 I-LIC
-67 I-LIC
-. O
+67. I-LIC
 
 Andre O
 mistenkte O
@@ -3835,8 +3705,7 @@ og O
 Södermalm B-LOC
 25 I-LOC
 i O
-Stockholm B-LOC
-. O
+Stockholm. B-LOC
 
 Mistenkte O
 Francesca B-PER
@@ -3852,8 +3721,7 @@ MI B-LIC
 77886 I-LIC
 CD I-LIC
 i O
-Napoli B-LOC
-. O
+Napoli. B-LOC
 
 ,,Andre O
 relevante O
@@ -4041,8 +3909,7 @@ registreringsnummer: O
 BK67 B-LIC
 XYZ I-LIC
 i O
-Birmingham B-LOC
-. O
+Birmingham. B-LOC
 
 Hennes O
 kontaktinfo: O
@@ -4064,7 +3931,6 @@ ledet O
 av O
 Jean B-PER
 Dupont I-PER
-. O
 
 Kontakt: O
 info B-MAIL
@@ -4076,7 +3942,6 @@ secdonnes.fr, I-MAIL
 20 I-PHO
 30 I-PHO
 40 I-PHO
-. O
 
 Etterforskerne O
 James B-PER
@@ -4088,7 +3953,6 @@ leder O
 saken O
 fra O
 Interpol B-ORG
-. O
 
 De O
 kan O
@@ -4135,7 +3999,6 @@ Martin, I-PER
 og O
 Dmitri B-PER
 Volkov I-PER
-. O
 
 Andre O
 relevante O
@@ -4348,8 +4211,7 @@ i O
 Oslo, B-LOC
 Bergen B-LOC
 og O
-Trondheim B-LOC
-. O
+Trondheim. B-LOC
 Detaljer: O
 
 Mobiltelefon O
@@ -4359,11 +4221,9 @@ Johansen, I-PER
 Storgata B-LOC
 15, I-LOC
 0182 I-LOC
-Oslo I-LOC
-. O
+Oslo. I-LOC
 Telefonnummer: O
-91114567 B-PHO
-. O
+91114567. B-PHO
 E-post: O
 ole B-MAIL
 . I-MAIL
@@ -4381,17 +4241,13 @@ Kongens B-LOC
 gate I-LOC
 7, I-LOC
 5003 I-LOC
-Bergen I-LOC
-. O
+Bergen. I-LOC
 
 Telefonnummer: O
-92345678 B-PHO
-. O
+92345678. B-PHO
 
 E-post: O
-emma.larsen@hotmail.com B-MAIL
-. O
-
+emma.larsen@hotmail.com. B-MAIL
 
 Kjøretøy O
 1: O
@@ -4407,8 +4263,7 @@ Pedersen I-PER
 fra O
 Trondheim B-ORG
 Bilutleie I-ORG
-AS I-ORG
-. O
+AS. I-ORG
 
 Mobiltelefon O
 3: O
@@ -4419,15 +4274,12 @@ Nilsen, I-PER
 Fjordgata B-LOC
 22, I-LOC
 7010 I-LOC
-Trondheim I-LOC
-. O
+Trondheim. I-LOC
 Telefonnummer: O
-97971425 B-PHO
-. O
+97971425. B-PHO
 
 E-post: O
-anders.nilsen@yahoo.com B-MAIL
-. O
+anders.nilsen@yahoo.com. B-MAIL
 
 Kjøretøy O
 2: O
@@ -4441,8 +4293,7 @@ eid O
 av O
 Oslo B-ORG
 Taxi I-ORG
-AS I-ORG
-. O
+AS. I-ORG
 
 det O
 er O
@@ -4522,8 +4373,7 @@ Toyota B-VEH
 Prius I-VEH
 med O
 reg.nr. O
-ABC399 B-LIC
-. O
+ABC399. B-LIC
 
 I O
 Trondheim B-LOC
@@ -4534,8 +4384,7 @@ en O
 ny O
 Rema B-ORG
 1000 I-ORG
-butikk O
-. O
+butikk. O
 
 Butikksjefen O
 Petter B-PER
@@ -4546,8 +4395,7 @@ på O
 +47 B-PHO
 455 I-PHO
 78 I-PHO
-901 I-PHO
-. O
+901. I-PHO
 
 Den O
 nye O
@@ -4558,8 +4406,7 @@ Stavanger B-LOC
 kommune I-LOC
 har O
 skiltnummer O
-EL2022 B-LIC
-. O
+EL2022. B-LIC
 
 Ordfører O
 Kari B-PER
@@ -4567,8 +4414,7 @@ Nessa I-PER
 Nordtun I-PER
 er O
 ofte O
-passasjer O
-. O
+passasjer. O
 
 Hovedmistenkte O
 er O
@@ -4578,8 +4424,7 @@ Sophie B-PER
 Dubois I-PER
 og O
 Alexei B-PER
-Petrov I-PER
-. O
+Petrov. I-PER
 
 Smith B-PER
 opererer O
@@ -4590,8 +4435,7 @@ i O
 Baker B-LOC
 Street I-LOC
 221B, I-LOC
-London B-LOC
-. O
+London. B-LOC
 
 Kontakt: O
 john. B-MAIL
@@ -4603,8 +4447,7 @@ og O
 +44 B-PHO
 20 I-PHO
 1111 I-PHO
-5678 I-PHO
-. O
+5678. I-PHO
 
 Dubois B-PER
 ble O
@@ -4613,8 +4456,7 @@ sett O
 i O
 Paris B-LOC
 nær O
-Eiffeltårnet B-LOC
-. O
+Eiffeltårnet. B-LOC
 
 Hennes O
 kontaktinfo: O
@@ -4625,8 +4467,7 @@ sophie.dubois B-MAIL
 12 I-PHO
 34 I-PHO
 56 I-PHO
-78 I-PHO
-. O
+78. I-PHO
 
 Petrov B-PER
 bor O
@@ -4636,8 +4477,7 @@ Russ## O
 på O
 Tverskaya B-LOC
 Street I-LOC
-15 I-LOC
-. O
+15. I-LOC
 Kontakt: O
 alexei. B-MAIL
 petrov I-MAIL
@@ -4645,8 +4485,7 @@ petrov I-MAIL
 +7 B-PHO
 495 I-PHO
 989 I-PHO
-4567 I-PHO
-. O
+4567. I-PHO
 
 Selskapet O
 British B-ORG
@@ -4659,7 +4498,6 @@ med O
 hovedkontor O
 i O
 Man&&%#chest"er O
-. O
 De O
 rapporterte O
 betalingstransaksjonen. O
@@ -4669,8 +4507,7 @@ kontaktinfo: O
 francesca.conti@libero.it, B-MAIL
 +39 B-PHO
 345 I-PHO
-9898569 I-PHO
-. O
+9898569. I-PHO
 
 Firmaet O
 som O
@@ -4689,7 +4526,6 @@ ledet O
 av O
 Reza B-PER
 Ahmadi I-PER
-. O
 
 Kontakt: O
 info@persiskdata.ir, B-MAIL
@@ -4697,7 +4533,6 @@ info@persiskdata.ir, B-MAIL
 21 I-PHO
 5858 I-PHO
 5658 I-PHO
-. O
 
 Etterforskerne O
 Lars B-PER
@@ -4710,7 +4545,6 @@ saken O
 fra O
 Stockholm B-ORG
 Transfer I-ORG
-. O
 
 De O
 kan O
@@ -4718,8 +4552,7 @@ nås O
 på O
 lars.eriksson@polisen.se B-MAIL
 og O
-anna.karlsson@polisen.se B-MAIL
-. O
+anna.karlsson@polisen.se. B-MAIL
 
 En O
 grønn O
@@ -4754,8 +4587,7 @@ Hassan B-PER
 Jafari, I-PER
 og O
 Elsa B-PER
-Bergström I-PER
-. O
+Bergström. I-PER
 
 Retten O
 håper O
@@ -4793,8 +4625,7 @@ organisasjoner O
 i O
 Oslo B-LOC
 og O
-Bergen B-LOC
-. O
+Bergen. B-LOC
 
 Hovedmistenkte O
 er O
@@ -4802,8 +4633,7 @@ Mustafa B-PER
 Olsen I-PER
 og O
 Stanislav B-PER
-Fan I-PER
-. O
+Fan. I-PER
 
 De O
 opererer O
@@ -4815,14 +4645,12 @@ Ugglyinveien B-LOC
 15, I-LOC
 0155 I-LOC
 Oslo I-LOC
-. O
 
 Kontaktinfo: O
 petter.olsen@gmail.com B-MAIL
 og O
 +87 B-PHO
-66050522 I-PHO
-. O
+66050522. I-PHO
 
 Deres O
 samarbeidspartnere O
@@ -4835,8 +4663,7 @@ og O
 Marie B-PER
 Rimmerly I-PER
 fra O
-Stavanger B-LOC
-. O
+Stavanger. B-LOC
 
 Bedriften O
 Norsk B-ORG
@@ -4850,12 +4677,10 @@ i O
 Strensvis B-LOC
 gate I-LOC
 10, I-LOC
-Bergen B-LOC
-. O
+Bergen. B-LOC
 
 Kontakt: O
-info@norskdatasikkerhet.no B-MAIL
-. O
+info@norskdatasikkerhet.no. B-MAIL
 
 Politiet O
 har O
@@ -4880,8 +4705,7 @@ en O
 hvit O
 BMW B-VEH
 X5, I-VEH
-EF23456 B-LIC
-. O
+EF23456. B-LIC
 
 Andre O
 mistenkte O
@@ -4898,8 +4722,7 @@ sofie.berg@yahoo.com, B-MAIL
 +1 B-PHO
 765 I-PHO
 43 I-PHO
-210 I-PHO
-. O
+210. I-PHO
 
 Etterforskerne O
 har O
@@ -4915,8 +4738,7 @@ og O
 Norsk B-ORG
 IT-Forening I-ORG
 i O
-Kristiansand B-LOC
-. O
+Kristiansand. B-LOC
 
 Han O
 kunne O
@@ -4929,8 +4751,7 @@ eller O
 72 I-PHO
 44 I-PHO
 70 I-PHO
-00 I-PHO
-. O
+00. I-PHO
 
 Teknisk O
 etterforsker O
@@ -5007,8 +4828,7 @@ ID.4 I-VEH
 med O
 skiltnummer O
 GH B-LIC
-55887 I-LIC
-. O
+55887. I-LIC
 
 Silje B-PER
 rapporterte O
@@ -5019,8 +4839,7 @@ og O
 516 I-PHO
 8 I-PHO
 908 I-PHO
-0 I-PHO
-. O
+0. I-PHO
 
 Datatilsynets B-ORG
 sikkerhetssjef O
@@ -5029,8 +4848,7 @@ Moen I-PER
 ble O
 konsultert O
 i O
-saken O
-. O
+saken. O
 
 Han O
 kjørte O
@@ -5045,8 +4863,8 @@ Skoda B-VEH
 Enyaq I-VEH
 med O
 reg.nr. O
-IJ09991 B-LIC
-. O
+IJ09991. B-LIC
+
 
 Anders B-PER
 kunne O
@@ -5058,8 +4876,7 @@ eller O
 224 I-PHO
 3 I-PHO
 659 I-PHO
-0 I-PHO
-. O
+0. I-PHO
 
 Cybersikkerhetsfirmaet B-ORG
 NorSec B-ORG
@@ -5070,8 +4887,7 @@ for O
 å O
 assistere O
 i O
-etterforskningen O
-. O
+etterforskningen. O
 
 Deres O
 analytiker O
@@ -5086,8 +4902,7 @@ Polestar B-VEH
 2 I-VEH
 med O
 skiltnummer O
-KL93369 B-LIC
-. O
+KL93369. B-LIC
 
 Marte B-PER
 var O
@@ -5099,8 +4914,7 @@ og O
 40 I-PHO
 00 I-PHO
 00 I-PHO
-01 I-PHO
-. O
+01. I-PHO
 
 NSMs B-ORG
 representant O
@@ -5113,8 +4927,7 @@ krisemøte O
 på O
 Justisdepartementet B-ORG
 i O
-Regjeringskvartalet B-LOC
-. O
+Regjeringskvartalet. B-LOC
 
 Han O
 kjørte O
@@ -5125,8 +4938,7 @@ IONIQ I-VEH
 5 I-VEH
 med O
 reg.nr. O
-MN01884 B-LIC
-. O
+MN01884. B-LIC
 
 Ole B-PER
 kunne O
@@ -5138,8 +4950,7 @@ eller O
 67 I-PHO
 86 I-PHO
 40 I-PHO
-00 I-PHO
-. O
+00. I-PHO
 
 Etterretningsoffiser O
 Lise B-PER
@@ -5155,7 +4966,6 @@ sikkert O
 lokale O
 i O
 Bodø B-LOC
-. O
 
 Hun O
 kjørte O
@@ -5166,7 +4976,6 @@ I-PACE I-VEH
 med O
 skiltnummer O
 OP23456 B-LIC
-. O
 
 Lise B-PER
 kommuniserte O
@@ -5178,7 +4987,7 @@ og O
 09 I-PHO
 31 I-PHO
 00 I-PHO
-. O
+og O
 
 Mistenkte O
 Thomas B-PER
@@ -5194,7 +5003,6 @@ prøvde O
 å O
 forlate O
 landet O
-. O
 
 Han O
 kjørte O
@@ -5205,13 +5013,11 @@ Taycan I-VEH
 med O
 reg.nr. O
 QR34567 B-LIC
-. O
 
 Thomas B-PER
 brukte O
 e-postadressen O
 nordic.hacker@protonmail.com B-MAIL
-. O
 
 Politiførstebetjent O
 Nina B-PER
@@ -5229,7 +5035,6 @@ RAV4 I-VEH
 med O
 skiltnummer O
 ST45678 B-LIC
-. O
 
 Nina B-PER
 rapporterte O
@@ -5241,7 +5046,6 @@ og O
 79 I-PHO
 60 I-PHO
 00 I-PHO
-. O
 
 Nasjonal B-ORG
 Sikkerhetsmyndighet I-ORG
@@ -5259,7 +5063,6 @@ mulig O
 hack O
 av O
 satellittstasjonen O
-. O
 
 Han O
 fløy O
@@ -5275,7 +5078,6 @@ Y I-VEH
 med O
 reg.nr. O
 UV57689 B-LIC
-. O
 
 Mustafi B-PER
 var O
@@ -5288,7 +5090,6 @@ og O
 86 I-PHO
 40 I-PHO
 01 I-PHO
-. O
 
 Europol-agent O
 Sophie B-PER
@@ -5300,7 +5101,6 @@ for O
 assistere O
 i O
 etterforskningen O
-. O
 
 Hun O
 kjørte O
@@ -5316,7 +5116,6 @@ Gardermoen B-LOC
 til O
 Oslo B-LOC
 sentrum I-LOC
-. O
 
 Sophie B-PER
 kunne O
@@ -5328,8 +5127,7 @@ eller O
 70 I-PHO
 302 I-PHO
 50 I-PHO
-00 I-PHO
-. O
+00. I-PHO
 
 Cybersikkerhetsekspert O
 Håkon B-PER
@@ -5344,7 +5142,6 @@ for O
 analysere O
 avansert O
 malware O
-. O
 
 Han O
 kjørte O
@@ -5360,7 +5157,6 @@ til O
 Kripos B-ORG
 sitt O
 hovedkvarter O
-. O
 
 Håkon B-PER
 var O
@@ -5373,7 +5169,6 @@ og O
 59 I-PHO
 50 I-PHO
 00 I-PHO
-. O
 
 Politirapport O
 Sak: O
@@ -5478,7 +5273,6 @@ gate I-LOC
 34, I-LOC
 0260 I-LOC
 Oslo I-LOC
-. O
 
 Ingrid B-PER
 rapporterer O
@@ -5516,7 +5310,6 @@ hennes O
 bank, O
 Western B-ORG
 Union I-ORG
-. O
 
 Falske O
 meldinger O
@@ -5576,8 +5369,7 @@ person O
 ved O
 navn O
 Marius B-PER
-Henriksen I-PER
-. O
+Henriksen. I-PER
 
 Mistenkte O
 personer O
@@ -5686,8 +5478,7 @@ David B-PER
 har O
 bil O
 nummer O
-AA12245 B-LIC
-. O
+AA12245. B-LIC
 
 Kjøretøyet O
 til O
@@ -5696,15 +5487,13 @@ er O
 en O
 blå O
 Honda B-VEH
-Civic I-VEH
-. O
+Civic. I-VEH
 
 Dokumentet O
 ble O
 sendt O
 til O
 documents@company.com B-MAIL
-. O
 
 Oslo B-LOC
 Politidistrikt I-LOC
@@ -5715,8 +5504,7 @@ informasjon O
 om O
 det O
 nye O
-tilfellet O
-. O
+tilfellet. O 
 
 Lars B-PER
 sendte O
@@ -5724,7 +5512,6 @@ en O
 e-post O
 til O
 lars@domain.no B-MAIL
-. O
 
 Anna B-PER
 og O
@@ -5734,7 +5521,6 @@ til O
 Trondheim B-LOC
 for O
 konferanse O
-. O
 
 Vi O
 fant O
@@ -5746,14 +5532,12 @@ uten O
 kjennemerker O
 i O
 parken O
-. O
 
 E-postadressen O
 til O
 Gunnar B-PER
 er O
 gunnar3@web.com B-MAIL
-. O
 
 Svinesund B-LOC
 er O
@@ -5761,7 +5545,6 @@ et O
 sted O
 på O
 gensen B-LOC
-. O
 
 Folk O
 kan O
@@ -5769,7 +5552,6 @@ kontakte O
 Jakob B-PER
 på O
 jakob@address.com B-MAIL
-. O
 
 Anita B-PER
 har O
@@ -5780,14 +5562,12 @@ er O
 223 B-PHO
 45 I-PHO
 098 I-PHO
-. O
 
 Bil O
 nummer O
 VV44111 B-LIC
 tilhører O
 Mikkel B-PER
-. O
 
 Politiet O
 beslagla O
@@ -5799,7 +5579,7 @@ Pro, O
 fra O
 Maria B-PER
 Kristiansen I-PER
-. O
+
 En O
 Leatherman O
 multitool, O
@@ -5823,7 +5603,6 @@ org.nr. B-OID
 111 I-OID
 456 I-OID
 788 I-OID
-. O
 
 En O
 MacBook O
@@ -5842,7 +5621,6 @@ med O
 fnr. O
 230659 B-PID
 12888 I-PID
-. O
 
 Kniv O
 brukt, O
@@ -5853,7 +5631,6 @@ i O
 nærheten O
 av O
 Bergen B-LOC
-. O
 
 Politiet O
 fant O
@@ -5863,7 +5640,6 @@ lommebok, O
 tilhørende O
 Struz B-PER
 Nord I-PER
-. O
 
 En O
 bærbar O
@@ -5876,7 +5652,6 @@ stjålet O
 fra O
 Storgata B-LOC
 15 I-LOC
-. O
 
 Mobiltelefon O
 Samsung O
@@ -5887,7 +5662,6 @@ ble O
 innlevert O
 til O
 Politistasjonen B-ORG
-. O
 
 Et O
 armbåndsur, O
@@ -5898,8 +5672,7 @@ av O
 person O
 med O
 telefonnummer O
-91915520 B-PHO
-. O
+91915520. B-PHO
 
 Bevis, O
 hammer: O
@@ -5913,7 +5686,6 @@ sak O
 mot O
 Bedrift B-ORG
 AS I-ORG
-. O
 
 En O
 gps-enhet, O
@@ -5927,8 +5699,7 @@ i O
 en O
 stjålet O
 Volvo B-VEH
-V60 I-VEH
-. O
+V60. I-VEH
 
 Politiet O
 beslagla O
@@ -5942,8 +5713,7 @@ fra O
 mistenkt O
 med O
 brukernavn O
-hackerman99 B-USR
-. O
+hackerman99. B-USR
 
 Et O
 kamera: O
@@ -5961,7 +5731,6 @@ Hansen I-PER
 fnr O
 050577 B-PID
 45622 I-PID
-. O
 
 Politiet O
 undersøker O
@@ -5974,7 +5743,7 @@ mobiltelefon; O
 tilknyttet O
 e-postadressen B-MAIL
 john.doe@example.com I-MAIL
-. O
+
 Og O
 bruker O
 john.johnsen12 B-USR
@@ -5995,7 +5764,6 @@ Trondheimsveien B-LOC
 14 I-LOC
 leil I-LOC
 U0101 I-LOC
-. O
 
 Etterforskere O
 analyserer O
@@ -6014,8 +5782,7 @@ med O
 knt.nr O
 2233 B-FIN
 02 I-FIN
-45855 I-FIN
-. O
+45855. I-FIN
 
 En O
 drone, O
@@ -6049,7 +5816,6 @@ ransaking O
 mot O
 NorCrim B-ORG
 AS I-ORG
-. O
 
 En O
 motorsag: O
@@ -6066,7 +5832,6 @@ en O
 byggeplass O
 i O
 Oslo B-LOC
-. O
 
 Etterforskere O
 undersøker O
@@ -6082,7 +5847,6 @@ med O
 personnummer O
 010180 I-PID
 65822 I-PID
-. O
 
 En O
 sykkel O
@@ -6097,7 +5861,6 @@ forlatt O
 ved O
 Aker B-LOC
 Brygge I-LOC
-. O
 
 Politiet O
 beslagla O
@@ -6124,7 +5887,6 @@ forbindelse O
 med O
 en O
 svindelsak O
-. O
 
 Etterforskere O
 analyserer O
@@ -6144,7 +5906,6 @@ et O
 åsted O
 i O
 Stavanger B-LOC
-. O
 
 En O
 bil O
@@ -6164,7 +5925,6 @@ en O
 stjålet O
 BMW B-VEH
 X5 I-VEH
-. O
 
 Politiet O
 undersøker O
@@ -6178,8 +5938,7 @@ en O
 IP-adresse O
 brukt O
 i O
-cyberkriminalitet O
-. O
+cyberkriminalitet. O
 
 En O
 koffert O
@@ -6192,8 +5951,7 @@ funnet O
 etterlatt O
 på O
 Oslo B-LOC
-S I-LOC
-. O
+S. I-LOC
 
 Etterforskere O
 analyserer O
@@ -6219,8 +5977,7 @@ i O
 forbindelse O
 med O
 en O
-dokumentforfalskning O
-. O
+dokumentforfalskning. O
 
 En O
 bil O
@@ -6231,8 +5988,7 @@ beslaglagt O
 i O
 forbindelse O
 med O
-en O
-. O
+en. O
 
 En O
 spade O
@@ -6244,7 +6000,6 @@ i O
 forbindelse O
 med O
 drapet O
-. O
 
 En O
 sekk O
@@ -6257,7 +6012,6 @@ i O
 forbindelse O
 med O
 drapet O
-. O
 
 En O
 flaske O
@@ -6331,8 +6085,7 @@ beslagsnummer: O
 2020 B-ITM
 / I-ITM
 1001 I-ITM
-A-1 I-ITM
-. O
+A-1. I-ITM
 
 123123123123132 O
 123123123123123 O
@@ -6355,8 +6108,7 @@ CD B-LIC
 ble O
 funnet O
 i O
-Oslo B-LOC
-. O
+Oslo. B-LOC
 
 Bankkortet O
 med O
@@ -6406,7 +6158,6 @@ mobiltelefon: O
 1999/10022_C_3 B-ITM
 fra O
 mistenkte O
-. O
 
 En O
 bil O
@@ -6418,7 +6169,6 @@ ble O
 observert O
 forlate O
 stedet O
-. O
 
 Etterforskere O
 undersøker O
@@ -6427,8 +6177,7 @@ på O
 kontonummer O
 1357 B-FIN
 90 I-FIN
-24680 I-FIN
-. O
+24680. I-FIN
 
 En O
 laptop: O
@@ -6438,8 +6187,7 @@ funnet O
 i O
 en O
 stjålet O
-bil O
-. O
+bil. O
 
 Kjøretøyet O
 med O
@@ -6447,8 +6195,7 @@ registreringsnummer O
 IJ B-LIC
 15151 I-LIC
 er O
-etterlyst O
-. O
+etterlyst. O
 
 Finansiell O
 aktivitet O
@@ -6461,8 +6208,7 @@ viser O
 betaling O
 av O 
 seksuelle O
-tjenester O
-. O
+tjenester. O
 
 2023 B-ITM
 / I-ITM
@@ -6472,8 +6218,7 @@ fanget O
 opp O
 bilskiltet O
 KL B-LIC
-45678 I-LIC
-. O
+45678. I-LIC
 
 Politiet O
 fant O
@@ -6489,8 +6234,7 @@ nr: O
 202 I-ITM
 med O
 flere O
-kontonumre O
-. O
+kontonumre. O
 
 En O
 lastebil O
@@ -6543,8 +6287,7 @@ inneholdt O
 dokumenter O
 med O
 flere O
-kontonumre O
-. O
+kontonumre. O
 
 Politiet O
 etterforsker O
@@ -6558,8 +6301,7 @@ i O
 forbindelse O
 med O
 en O
-bankran O
-. O
+bankran. O
 
 En O
 datamaskin O
@@ -6576,8 +6318,7 @@ om O
 kontonummer O
 3690 B-FIN
 25 I-FIN
-81470 I-FIN
-. O
+81470. I-FIN
 
 En O
 stjålet O
@@ -6601,8 +6342,7 @@ på O
 konto O
 7531 B-FIN
 59 I-FIN
-26480 I-FIN
-. O
+26480. I-FIN
 
 En O
 drone: O
@@ -6620,8 +6360,7 @@ fluktbil O
 med O
 skilt O
 UV B-LIC
-87654 I-LIC
-. O
+87654. I-LIC
 
 En O
 bil O
@@ -6646,8 +6385,7 @@ med O
 liste O
 over O
 stjålne O
-kredittkort O
-. O
+kredittkort. O
 
 En O
 varebil O
@@ -6739,7 +6477,6 @@ A-105 I-ITM
 med O
 mistenkelige O
 e-poster O
-. O
 
 Politiet O
 beslagla O
@@ -6752,7 +6489,6 @@ B-301 I-ITM
 inneholdende O
 krypterte O
 meldinger O
-. O
 
 Tollvesenet O
 fant O
@@ -6766,8 +6502,7 @@ beslagsnr. O
 C-408 I-ITM
 full O
 av O
-regnskapsdokumenter O
-. O
+regnskapsdokumenter. O
 
 Spesialenheten O
 konfiskerte O
@@ -6779,8 +6514,7 @@ nettbrett: O
 D-509 I-ITM
 med O
 slettet O
-historikk O
-. O
+historikk. O
 
 Etterforskerne O
 tok O
@@ -6808,8 +6542,7 @@ kalkulator O
 2012-676 I-ITM
 med O
 skjulte O
-transaksjoner O
-. O
+transaksjoner. O
 
 Sikkerhetstjenesten O
 beslagla O
@@ -6823,8 +6556,7 @@ beslagsnummer O
 G-818, I-ITM
 brukt O
 under O
-operasjonen O
-. O
+operasjonen. O
 
 Etterforskere O
 sikret O
@@ -6838,8 +6570,7 @@ S.14, I-ITM
 med O
 mistenkelig O
 online O
-aktivitet O
-. O
+aktivitet. O
 
 Politiet O
 tok O
@@ -6867,8 +6598,7 @@ J-127, I-ITM
 montert O
 i O
 mistenkte O
-lokaler O
-. O
+lokaler. O
 
 beslagsnr O
 2009 B-ITM
@@ -6932,8 +6662,7 @@ organisasjonsnummer O
 988 I-OID
 er O
 under O
-etterforskning O
-. O
+etterforskning. O
 
 Politiet O
 undersøker O
@@ -6945,8 +6674,7 @@ org.nr. O
 321 I-OID
 for O
 mulig O
-svindel O
-. O
+svindel. O
 
 Bedriften O
 Teknologi B-ORG
@@ -7072,16 +6800,14 @@ fra O
 bedrift O
 234 B-OID
 567 I-OID
-890 I-OID
-. O
+890. I-OID
 
 koblet O
 til O
 den O
 suspekte O
 instagrambrukeren O
-trading_master B-USR
-. O
+trading_master. B-USR
 
 Etterforskere O
 gransker O
@@ -7092,8 +6818,7 @@ selskapet O
 og O
 deres O
 markedsføringskonto O
-best_deals_ever B-USR
-. O
+best_deals_ever. B-USR
 
 Bedriften O
 med O
@@ -7107,7 +6832,6 @@ kontoen O
 support_team_22 B-USR
 for O
 kundeservice O
-. O
 
 Hackeren O
 med O
@@ -7119,8 +6843,7 @@ til O
 firma O
 012 B-OID
 011 I-OID
-678 I-OID
-. O
+678. I-OID
 
 Organisasjonsnummer O
 606 B-OID
@@ -7132,8 +6855,7 @@ til O
 den O
 populære O
 influenceren O
-lifestyle_guru B-USR
-. O
+lifestyle_guru. B-USR
 
 Selskapet O
 890123123 B-OID
@@ -7143,8 +6865,7 @@ deres O
 Twitter-konto O
 TechInnovators B-USR
 var O
-kompromittert O
-. O
+kompromittert. O
 
 Brukeren O
 financial1_wizard99 B-USR
@@ -7157,7 +6878,7 @@ org.nr. O
 555 B-OID
 890 I-OID
 121 I-OID
-. O
+og O
 
 Politiet O
 undersøker O
@@ -7170,7 +6891,7 @@ organisasjonsnummer O
 og O
 Instagram-kontoen O
 luxury_life_101 B-USR
-. O
+som O
 
 Bedriften O
 098 B-OID
@@ -7185,7 +6906,6 @@ for O
 å O
 annonsere O
 stillinger O
-. O
 
 Snapchat O
 brukeren O
@@ -7199,7 +6919,9 @@ selskapet O
 876 B-OID
 543 I-OID
 210 I-OID
-. O
+som O
+er O
+registrert O
 
 Organisasjonsnummer O
 210 B-OID
@@ -7210,7 +6932,6 @@ den O
 kontroversielle O
 Twitter-kontoen O
 @PoliticalWatch B-USR
-. O
 
 Etterforskere O
 kobler O
@@ -7224,8 +6945,7 @@ fra O
 firma O
 543 B-OID
 210 I-OID
-222 I-OID
-. O
+222. I-OID
 
 Selskapet O
 med O
@@ -7238,8 +6958,7 @@ kontoen O
 customer_support B-USR
 _247 I-USR
 for O
-henvendelser O
-. O
+henvendelser. O
 
 Brukerkontoen O
 eco_warrior B-USR
@@ -7251,7 +6970,9 @@ bedriften O
 432 B-OID
 109 I-OID
 876 I-OID
-. O
+og O
+disponeres O
+av O
 
 Organisasjonsnummer O
 109456111 B-OID
@@ -7260,7 +6981,6 @@ assosiert O
 med O
 Facebook-kanalen O
 TechReviewPro B-USR
-. O
 
 Firmaet O
 654 B-OID
@@ -7272,8 +6992,7 @@ deres O
 LinkedIn-profil O
 InnovativeSolutions B-USR
 var O
-hacket O
-. O
+hacket. O
 
 Brukeren O
 legal_eagle_101 B-USR
@@ -7288,7 +7007,6 @@ i O
 en O
 pågående O
 sak O
-. O
 
 Kari B-PER
 Olsen I-PER
@@ -7298,7 +7016,6 @@ kari_tech_guru B-USR
 og O
 e-posten O
 kari.olsen@techfirma.no B-MAIL
-. O
 
 Erik B-PER
 Hansen I-PER
@@ -7307,8 +7024,7 @@ kontoen O
 coding_viking B-USR
 og O
 e-post O
-erik.h@devteam.com B-MAIL
-. O
+erik.h@devteam.com. B-MAIL
 
 Marie B-PER
 Larsen I-PER
@@ -7316,8 +7032,7 @@ administrerer O
 social_media_queen B-USR
 og O
 bruker O
-marie.larsen@marketing.no B-MAIL
-. O
+marie.larsen@marketing.no. B-MAIL
 
 Ola B-PER
 Nordmann I-PER
@@ -7325,8 +7040,7 @@ opererer O
 som O
 secure_shield B-USR
 via O
-ola.nordmann@cybersec.com B-MAIL
-. O
+ola.nordmann@cybersec.com. B-MAIL
 
 Lisa B-PER
 Berg I-PER
@@ -7338,13 +7052,11 @@ og O
 nås O
 på O
 lisa.berg@creative.no B-MAIL
-. O
 
 bruker O
 project_wizard B-USR
 og O
 anders.h@projectmanagement.com B-MAIL
-. O
 
 ####### O
 ?=^*^**^^*^* O 
@@ -7355,12 +7067,10 @@ data_detective B-USR
 og O
 e-posten O
 sofie.dahl@analytics.no B-MAIL
-. O
 
 market_innovator B-USR
 og O
 thomas.lie@brandbuilders.com B-MAIL
-. O
 
 aktiv O
 som O
@@ -7370,20 +7080,20 @@ nås O
 på O
 emma.p@ B-MAIL
 hrexperts.no I-MAIL
-. O
+og O
 
 Johansen B-PER
 bruker O
 system_guru B-USR
 og O
-nils.j@itops.com B-MAIL
-. O
+nils.j@itops.com. B-MAIL
+som O
+disponeres O
 
 opererer O
 som O
 legal_eagle B-USR
-ingrid.k@lawfirm.no B-MAIL
-. O
+ingrid.k@lawfirm.no. B-MAIL
 
 Martin B-PER
 Andersen I-PER
@@ -7391,7 +7101,7 @@ bruker O
 finance_wizard B-USR
 og O
 martin.a@accounting.com B-MAIL
-. O
+via O
 
 Sara B-PER
 Pettersen I-PER
@@ -7401,7 +7111,6 @@ customer_whisperer B-USR
 og O
 e-posten O
 sara.p@customersupport.no B-MAIL
-. O
 
 kjent O
 som O
@@ -7409,15 +7118,13 @@ innovation_master B-USR
 og O
 bruker O
 daniel.s@productdev.com B-MAIL
-. O
 
 administrerer O
 content_queen B-USR
 og O
 nås O
 på O
-anna.m@contentcreators.no B-MAIL
-. O
+anna.m@contentcreators.no. B-MAIL
 
 Politibetjent O
 Bakken B-PER
@@ -7425,8 +7132,7 @@ opererer O
 som O
 network_ninja B-USR
 via O
-kristian.b@politiet.com B-MAIL
-. O
+kristian.b@politiet.com. B-MAIL
 
 Jacobsen B-PER
 bruker O
@@ -7434,7 +7140,9 @@ sales_rockstar B-USR
 og O
 e-posten O
 mia.j@salesteam.no B-MAIL
-. O
+som O
+driftes O
+på O
 
 har O
 brukerkontoen O
@@ -7443,7 +7151,7 @@ _ I-USR
 guardian I-USR
 og O
 andreas.g@qualitycontrol.com B-MAIL
-. O
+uten O
 
 Linn B-PER
 Eide I-PER
@@ -7454,8 +7162,7 @@ ux_visionary B-USR
 og O
 nås O
 på O
-linn.e@userexperience.no B-MAIL
-. O
+linn.e@userexperience.no. B-MAIL
 
 Kommunikasjonssjef O
 Anas B-PER
@@ -7463,8 +7170,7 @@ Tamer I-PER
 bruker O
 pr_mastermind B-USR
 og O
-magnus.s@communications.com B-MAIL
-. O
+magnus.s@communications.com. B-MAIL
 
 Roberto B-PER
 Sánchez, I-PER
@@ -7492,7 +7198,6 @@ huset O
 til O
 Carmen B-PER
 Rodríguez I-PER
-. O
 
 Mistenkelige O
 overføringer O
@@ -7516,7 +7221,6 @@ brukeren O
 XXX_SOME_o22 B-USR
 i O
 etterforskningen O
-. O
 
 María B-PER
 Gómez, I-PER
@@ -7580,7 +7284,6 @@ eid O
 av O
 Lucía B-PER
 Vargas I-PER
-. O
 Profilen O 
 er O 
 sikret, O
@@ -7603,7 +7306,6 @@ Javier B-PER
 Reyes I-PER
 og O
 avisredaksjonen O
-. O
 
 Transaksjoner O
 på O
@@ -7620,8 +7322,7 @@ sak O
 2024 B-ITM
 / I-ITM
 3001 I-ITM
-A-12 I-ITM
-. O
+A-12. I-ITM
 
 Politiet O
 i O
@@ -7636,7 +7337,6 @@ i O
 en O
 beslaglagt O
 veske O
-. O
 
 Selskapet O
 med O
@@ -7650,7 +7350,6 @@ overføringer O
 til O
 konto O
 3204.54.32201 B-FIN
-. O
 
 Et O
 dokument, O
@@ -7668,8 +7367,7 @@ kontonummer O
 og O
 firmaet O
 i O
-Trondheim B-LOC
-. O
+Trondheim. B-LOC
 
 Bankkortet O
 6969554412512879 B-FIN
@@ -7685,8 +7383,7 @@ til O
 en O
 adresse O
 i O
-Oslo B-LOC
-. O
+Oslo. B-LOC
 
 Etterforskere O
 koblet O
@@ -7702,8 +7399,7 @@ beslag O
 C-15 I-ITM
 funnet O
 i O
-Narvik B-LOC
-. O
+Narvik. B-LOC
 
 Bedriften O
 med O
@@ -7716,8 +7412,7 @@ uvanlig O
 aktivitet O
 på O
 konto O
-3456.78.90905 B-FIN
-. O
+3456.78.90905. B-FIN
 
 En O
 laptop, O
@@ -7731,8 +7426,7 @@ om O
 transaksjoner O
 til O
 kontonummer O
-7977.12.35356 B-FIN
-. O
+7977.12.35356. B-FIN
 
 Politiet O
 i O
@@ -7748,8 +7442,7 @@ nummer O
 0201 I-FIN
 under O
 en O
-razzia O
-. O
+razzia. O
 
 Selskapet O
 i O
@@ -7768,8 +7461,7 @@ på O
 konto O
 0202 B-FIN
 45 I-FIN
-77777 I-FIN
-. O
+77777. I-FIN
 
 fødselsnummer O
 010280 B-PID
@@ -7785,8 +7477,7 @@ til O
 konto O
 2234 B-FIN
 44 I-FIN
-44566 I-FIN
-. O
+44566. I-FIN
 
 Bedriften O
 med O
@@ -7803,8 +7494,7 @@ og O
 bankkonto O
 5678 B-FIN
 90 I-FIN
-15152 I-FIN
-. O
+15152. I-FIN
 
 En O
 ansatt O
@@ -7820,8 +7510,7 @@ for O
 rapportere O
 om O
 mistenkelige O
-transaksjoner O
-. O
+transaksjoner. O
 
 Etterforskere O
 undersøkte O
@@ -7838,8 +7527,7 @@ med O
 konto O
 9012 B-FIN
 34 I-FIN
-98985 I-FIN 
-. O
+98985. I-FIN 
 
 En O
 person O
@@ -7858,8 +7546,7 @@ kortnummer O
 4321 B-FIN
 5678 I-FIN
 9012 I-FIN
-3456 I-FIN
-. O
+3456. I-FIN
 
 Firmaet O
 med O
@@ -7878,8 +7565,7 @@ på O
 konto O
 3456 B-FIN
 78 I-FIN
-89895 I-FIN
-. O
+89895. I-FIN
 
 En O
 kunde O
@@ -7895,8 +7581,7 @@ knyttet O
 den O
 til O
 bankkortet O
-6666.0202.4545.9888 B-FIN
-. O
+6666.0202.4545.9888. B-FIN
 
 Selskapet O
 identifisert O
@@ -7913,8 +7598,7 @@ på O
 konto O
 7878 B-FIN
 12 I-FIN
-02021 I-FIN
-. O
+02021. I-FIN
 
 En O
 person O
@@ -7931,8 +7615,7 @@ og O
 flere O
 bankkontoer O
 inkludert O
-45052632558 B-FIN
-. O
+45052632558. B-FIN
 
 Myndighetene O
 koblet O
@@ -7950,8 +7633,7 @@ på O
 konto O
 2345 B-FIN
 67 I-FIN
-89012 I-FIN
-. O
+89012. I-FIN
 
 Oleksandr B-PER
 Petrenko I-PER
@@ -7967,7 +7649,6 @@ overføre O
 til O
 konto O
 89898852521 B-FIN
-. O
 
 Firmaet O
 Ukrainska B-ORG
@@ -7982,7 +7663,6 @@ profilen O
 agro_export B-USR
 for O
 transaksjoner O
-. O
 
 Tatiana B-PER
 Kovalenko, I-PER
@@ -7997,7 +7677,6 @@ konto O
 5678 B-FIN
 90 I-FIN
 18848 I-FIN 
-. O
 
 Selskapet O
 Dnipro B-ORG
@@ -8011,7 +7690,6 @@ kontoen O
 metal_trade_ua87 B-USR
 for O
 eksport O
-. O
 
 Viktor B-PER
 Sydorenko, I-PER
@@ -8024,7 +7702,6 @@ odesa_shipping B-USR
 og O
 kortnummer O
 9012.5555.7147.1234 B-FIN
-. O
 
 IT-firmaet O
 Kharkiv B-ORG
@@ -8219,8 +7896,7 @@ org.nr. O
 678, I-OID
 brukte O
 profilen O
-west_ua_software B-USR
-. O
+west_ua_software. B-USR
 
 Mistenkte O
 Sven B-PER
@@ -8232,8 +7908,7 @@ august I-PID
 ble O
 observert O
 nær O
-åstedet O
-. O
+åstedet. O
 
 Vitnet O
 Maria B-PER
@@ -8255,8 +7930,7 @@ mai I-PID
 til O
 den O
 stjålne O
-bilen O
-. O
+bilen. O
 
 Hovedmistenkte O
 Lena B-PER
@@ -8268,8 +7942,7 @@ oktober. I-PID
 1979, I-PID
 nektet O
 all O
-innblanding O
-. O
+innblanding. O
 
 Politiet O
 avhørte O
@@ -8282,8 +7955,7 @@ desember- I-PID
 i O
 forbindelse O
 med O
-svindelsaken O
-. O
+svindelsaken. O
 
 Sikkerhetsvakten O
 Kari B-PER
@@ -8330,8 +8002,7 @@ fødselsdato O
 08 I-PID
 1981, I-PID
 infiltrerte O
-organisasjonen O
-. O
+organisasjonen. O
 
 Finansrådgiveren O
 Nina B-PER
@@ -8343,8 +8014,7 @@ født O
 ble O
 mistenkt O
 for O
-innsidehandel O
-. O
+innsidehandel. O
 
 Hovedmistenkte O
 Lars B-PER
@@ -8354,8 +8024,7 @@ født O
 ble O
 pågrepet O
 i O
-Oslo B-LOC
-. O
+Oslo. B-LOC
 
 Vitnet O
 Emma B-PER
@@ -8367,8 +8036,7 @@ ga O
 alibi O
 til O
 den O
-mistenkte O
-. O
+mistenkte. O
 Etterforskningsleder O
 Knut B-PER
 Olsen, I-PER
@@ -8405,7 +8073,6 @@ tilbake O
 sin O
 tidligere O
 uttalelse O
-. O
 
 Berg, B-PER
 født O
@@ -8527,7 +8194,6 @@ fødselsdato O
 28-09-2009, B-PID
 fastslo O
 brannårsaken O
-. O
 
 Miljøkriminalitetsexperten O
 Trond B-PER
@@ -8539,7 +8205,6 @@ september I-PID
 avdekket O
 ulovlig O
 avfallsdumping O
-. O
 
 Spesialagenten O
 Astrid B-PER
@@ -8596,8 +8261,7 @@ bank O
 knt.nr: O
 0033 B-FIN
 15 I-FIN
-22855 I-FIN
-. O
+22855. I-FIN
 
 gjennomgang O
 av O
@@ -8605,16 +8269,14 @@ bank O
 konto O
 3420 B-FIN
 15 I-FIN
-58620 I-FIN
-. O
+58620. I-FIN
 
 sikring O
 av O
 bank-konto: O
 3420 B-FIN
 15 I-FIN
-58620 I-FIN
-. O
+58620. I-FIN
 
 sikring O
 av O
@@ -8624,16 +8286,14 @@ bank-konto: O
 Bruker O
 9898 B-FIN
 56 I-FIN
-12355 I-FIN
-. O
+12355. I-FIN
 
 Tok O
 2012- B-ITM
 456 I-ITM
 / I-ITM
 12 I-ITM
-A-1 I-ITM
-. O
+A-1. I-ITM
 
 Beslag O
 journal O
@@ -8725,8 +8385,7 @@ Lok. O
 besl. O
 nr O
 / O
-posenr O
-. O
+posenr. O
 Antall O
 1 O
 
@@ -8741,8 +8400,7 @@ journal O
 nr. O
 2024 B-ITM
 / I-ITM
-2000 I-ITM
-. O
+2000. I-ITM
 
 Beslag O
 journal O
@@ -8774,8 +8432,7 @@ Lok. O
 besl. O
 nr O
 / O
-posenr O
-. O
+posenr. O
 Antall O
 1 O
 
@@ -8787,8 +8444,7 @@ Lok. O
 besl. O
 nr O
 / O
-posenr O
-. O
+posenr. O
 Antall O
 1 O
 
@@ -8797,8 +8453,7 @@ journal O
 nr. O
 2006 B-ITM
 / I-ITM
-608 I-ITM
-. O
+608. I-ITM
 
 IPHONE O
 A1778 O
@@ -8920,8 +8575,7 @@ eller O
 +47 B-PHO
 474 I-PHO
 44 I-PHO
-989 I-PHO
-. O
+989. I-PHO
 
 Bedriften O
 har O
@@ -8932,8 +8586,7 @@ og O
 bruker O
 Trondheim.Tech B-USR
 på O
-Twitter O
-. O
+Twitter. O
 
 Vi O
 etterforsker O
@@ -8946,14 +8599,12 @@ på O
 Instagram O
 har O
 kontaktet O
-mindreårige O
-. O
+mindreårige. O
 
 Følg O
 oss O
 på O
-Facebook O
-: O
+Facebooke: O
 @NorskNatur B-USR
 2024 I-USR
 for O
@@ -8966,12 +8617,10 @@ Andersen, I-PER
 kan O
 kontaktes O
 via O
-TikTok O
-: O
+TikTok: O
 @lisaandersen B-USR
 ___ I-USR
-1995 I-USR
-. O
+1995. I-USR
 
 Hackeren O
 med O
@@ -8986,28 +8635,25 @@ IP-adresse O
 45.45.8.125 O
 i O
 Drammen B-LOC
-. O
 
 Avdelingen O
 etterforsker O
 en O
 profil O
 på O
-Snapchat O
-: O
+Snapchat: O
 narko B-USR
 ___ I-USR
 dealer I-USR
 ___ I-USR
 420 I-USR
-. O
+har O
 
 brukte O
 e-postadressen O
 money.launderer@securemail.com B-MAIL
 for O
 transaksjoner O
-. O
 
 Cyberkriminelle O
 brukte O
@@ -9029,7 +8675,6 @@ illegal B-USR
 ___ I-USR
 goods- I-USR
 trade I-USR
-. O
 
 Bitcoin-lommebok O
 ble O
@@ -9043,7 +8688,6 @@ scammer I-USR
 btc I-USR
 på O
 Reddit O
-. O
 
 narko B-USR
 18 I-USR
@@ -9053,8 +8697,7 @@ pill B-USR
 sss I-USR
 pusher I-USR
 _xx- I-USR
-x I-USR
-. O
+x. I-USR
 
 kryptokriminelle O
 CoinPhantom99 B-USR
@@ -9065,8 +8708,7 @@ overvåker O
 Telegram-brukerne O
 Toxic_Alchemist B-USR
 og O
-SilentSmuggler B-USR
-. O
+SilentSmuggler. B-USR
 
 To O
 profiler, O
@@ -9076,8 +8718,7 @@ GlitchWhisperer, B-USR
 ble O
 koblet O
 til O
-cyberkriminalitet O
-. O
+cyberkriminalitet. O
 
 Kari B-PER
 Jensen, I-PER
@@ -9085,14 +8726,12 @@ brukte O
 kallenavnet O
 kari87 B-USR
 på O
-datingappen O
-. O
+datingappen. O
 
 Snapchat-kontoen O
 party.jente98 B-USR
 tilhører O
-offeret O
-. O
+offeret. O
 
 To O
 Instagram-profiler: O
